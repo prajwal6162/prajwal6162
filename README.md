@@ -1,15 +1,14 @@
-# 👨‍💻 Prajwalsingh | DevOps Enthusiast | Cloud Engineer 
-
-Hey! I'm **Prajwal**, active learner in field of devops and cloud computing.  I’m deeply focused on automating infrastructure, deploying resilient cloud-native systems, and solving real-world problems through code and infrastructure.
-
+# 👨‍💻 Prajwalsingh 
+ Hi! I’m Prajwal, a passionate learner in DevOps and Cloud Computing.
+ I love automating infrastructure, building reliable cloud-native systems, and solving real-world challenges with code and infrastructure.
 ---
 
 ## 🚀 About Me
 
-- 🔧 Passionate about **DevOps, Cloud Computing, and System Design**
-- 💡 Constantly learning and experimenting with **automation**, **CI/CD pipelines**, and **Kubernetes orchestration**
-- 🧠 Over **250+ LeetCode problems solved**, familiar with **DSA, OOPs, DBMS, OS, CN**
-- 💬 Actively building projects and sharing my journey on GitHub and LinkedIn
+-🔧 Passionate about DevOps, Cloud Computing, and System Design, with a focus on AWS.
+-💡 Constantly learning and experimenting with automation, CI/CD pipelines, and Kubernetes orchestration.
+-🧠 Skilled in solving Data Structures & Algorithms (DSA) and well-versed in OOPs, DBMS, Operating Systems, and Computer Networks.
+-💬 Actively building projects to sharpen my skills and grow as a developer.
 
 ---
 
@@ -29,7 +28,7 @@ Hey! I'm **Prajwal**, active learner in field of devops and cloud computing.  I�
 
 ### 🗃️ Databases:
 - MongoDB, MySQL
-
+  
 ---
 
 ## 📬 Let’s Connect
