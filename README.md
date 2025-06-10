@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👨‍💻 Prajwalsingh | DevOps Enthusiast | Cloud Engineer 
 
-<!--
-**prajwal6162/prajwal6162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm **Prajwal**, active learner in field of devops and cloud computing.  I’m deeply focused on automating infrastructure, deploying resilient cloud-native systems, and solving real-world problems through code and infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔧 Passionate about **DevOps, Cloud Computing, and System Design**
+- 💡 Constantly learning and experimenting with **automation**, **CI/CD pipelines**, and **Kubernetes orchestration**
+- 🧠 Over **250+ LeetCode problems solved**, familiar with **DSA, OOPs, DBMS, OS, CN**
+- 💬 Actively building projects and sharing my journey on GitHub and LinkedIn
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### ⚙️ DevOps & Cloud:
+- **AWS**, **Docker**, **Kubernetes**, **Terraform**
+- **CI/CD**: Jenkins, GitHub Actions
+- **Monitoring**: Prometheus, Grafana, Loki
+
+### 💻 Programming & Scripting:
+- Languages: **C++**, **Python**, **Bash**
+- Version Control: **Git & GitHub**
+
+### 🌐 Web Technologies:
+- HTML, CSS, JavaScript (basic)
+
+### 🗃️ Databases:
+- MongoDB, MySQL
+
+---
+
+## 📬 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prajwalsingh-thakur-26b011263/)
+- 📧 Email: prajwalthakur6162@gmail.com
+  
+---
+
+> Code. Automate. Scale. Repeat. - 🚀
+
