@@ -1,5 +1,5 @@
 # 👨‍💻 Prajwalsingh 
- Hi! I’m Prajwal, a passionate learner in DevOps and Cloud Computing.\
+ Hi! I’m Prajwalsingh, a passionate learner in DevOps and Cloud Computing.\
  I love automating infrastructure, building reliable cloud-native systems, and solving real-world challenges with code and infrastructure.
 ---
 
