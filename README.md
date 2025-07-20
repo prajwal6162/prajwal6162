@@ -20,7 +20,7 @@
 - **Monitoring**: Prometheus, Grafana, Loki
 
 ### 💻 Programming & Scripting:
-- Languages: **C++**, **Python**, **Bash**
+- Languages: **C++**, **Python**
 - Version Control: **Git & GitHub**
 
 ### 🌐 Web Technologies:
